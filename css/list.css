@@ -1,0 +1,254 @@
+.main {
+  height: 2740px; }
+  .main .container {
+    width: 1203px;
+    height: 2740px; }
+    .main .container > h3 {
+      height: 66px;
+      width: 100%;
+      line-height: 66px;
+      color: #333333;
+      background-color: #fff; }
+      .main .container > h3 > p {
+        width: 81px;
+        height: 100%;
+        float: left; }
+      .main .container > h3 > span {
+        float: right; }
+    .main .container .change {
+      height: 40px;
+      border: 1px solid #ccc; }
+      .main .container .change p {
+        width: 87px;
+        height: 40px;
+        float: left;
+        background-color: #F7F7F7;
+        text-align: center;
+        line-height: 40px;
+        font-size: 12px;
+        padding-left: 25px; }
+      .main .container .change ul {
+        width: 255px;
+        height: 40px;
+        line-height: 40px;
+        float: left; }
+        .main .container .change ul li {
+          padding: 0 15px;
+          font-size: 12px;
+          float: left; }
+    .main .container .baozhang {
+      height: 49px;
+      margin-top: 41px; }
+      .main .container .baozhang .fist {
+        width: 165px;
+        height: 49px;
+        line-height: 49px;
+        font-size: 14px;
+        color: #333333;
+        padding-left: 33px;
+        background: url("../img/listb1.png") no-repeat;
+        float: left; }
+      .main .container .baozhang ul {
+        width: 585px;
+        height: 49px;
+        float: left; }
+        .main .container .baozhang ul li {
+          width: 71px;
+          height: 100%;
+          float: left;
+          line-height: 45px;
+          padding-left: 46px;
+          background: url("../img/baozhang2.png") no-repeat; }
+    .main .container .paixu {
+      height: 2140px; }
+      .main .container .paixu .list01 {
+        width: 958px;
+        height: 100%;
+        float: left;
+        margin-right: 22px; }
+        .main .container .paixu .list01 > h3 {
+          height: 40px;
+          background-color: #F7F7F7; }
+          .main .container .paixu .list01 > h3 .lc {
+            width: 780px;
+            height: 40px; }
+            .main .container .paixu .list01 > h3 .lc li {
+              padding: 0 15px;
+              line-height: 40px;
+              float: left;
+              font-size: 12px; }
+            .main .container .paixu .list01 > h3 .lc .price {
+              width: 118px;
+              height: 40px; }
+              .main .container .paixu .list01 > h3 .lc .price input {
+                width: 53px;
+                height: 24px;
+                padding-left: 3px; }
+        .main .container .paixu .list01 .bc {
+          width: 958px;
+          min-height: 300px; }
+          .main .container .paixu .list01 .bc .bd {
+            border-color: #ccc; }
+          .main .container .paixu .list01 .bc li {
+            width: 198px;
+            height: 348px;
+            margin: 20px 0 0;
+            padding: 20px 19.5px 10px;
+            float: left;
+            border: 1px solid #fff; }
+            .main .container .paixu .list01 .bc li img {
+              width: 200px;
+              height: 200px; }
+            .main .container .paixu .list01 .bc li .tittle {
+              height: 40px;
+              padding: 16px 0 0;
+              font-size: 12px;
+              overflow: hidden;
+              line-height: 18px;
+              color: #333333; }
+            .main .container .paixu .list01 .bc li .prices {
+              height: 32px;
+              font-size: 16px;
+              color: #FF3333;
+              margin-top: 5px;
+              font-weight: bold; }
+            .main .container .paixu .list01 .bc li .volum {
+              height: 22px;
+              color: #999999; }
+              .main .container .paixu .list01 .bc li .volum span {
+                font-size: 12px; }
+                .main .container .paixu .list01 .bc li .volum span i {
+                  color: red;
+                  display: inline-block;
+                  width: 3px;
+                  height: 22px;
+                  margin-left: 5px; }
+            .main .container .paixu .list01 .bc li .shop-name {
+              height: 20px;
+              font-size: 12px;
+              color: #666666;
+              margin-top: 15px; }
+        .main .container .paixu .list01 .pag {
+          height: 82px;
+          width: 500px;
+          padding-left: 460px; }
+          .main .container .paixu .list01 .pag span {
+            display: inline-block;
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            text-align: center;
+            margin-left: 5px;
+            margin-top: 27px;
+            border: 1px solid #ccc; }
+          .main .container .paixu .list01 .pag .shang {
+            left: 405px;
+            top: 27px;
+            height: 35px;
+            width: 55px; }
+          .main .container .paixu .list01 .pag .dage {
+            color: red; }
+          .main .container .paixu .list01 .pag .xia {
+            left: 545px;
+            top: 27px;
+            height: 35px;
+            width: 55px;
+            margin-left: 6px; }
+          .main .container .paixu .list01 .pag .active {
+            background-color: #CC0000;
+            color: #fff; }
+      .main .container .paixu .list02 {
+        width: 220px;
+        height: 2058px;
+        float: right; }
+        .main .container .paixu .list02 > h3 {
+          height: 40px;
+          background-color: #F7F7F7;
+          line-height: 40px;
+          font-size: 14px;
+          padding-left: 5px; }
+          .main .container .paixu .list02 > h3 span {
+            float: right;
+            color: #666;
+            color: #D0D0D0; }
+        .main .container .paixu .list02 ul {
+          height: 2010px;
+          padding: 10px 10px 0; }
+          .main .container .paixu .list02 ul li {
+            padding: 0 0 20px;
+            width: 198px;
+            height: 315px; }
+            .main .container .paixu .list02 ul li img {
+              width: 198px;
+              height: 198px; }
+            .main .container .paixu .list02 ul li .name {
+              height: 36px;
+              padding-top: 6px;
+              font-size: 12px; }
+            .main .container .paixu .list02 ul li .price {
+              height: 18px;
+              padding-top: 7px;
+              color: #FF3333;
+              font-weight: bold; }
+            .main .container .paixu .list02 ul li .shop-name {
+              height: 18px;
+              padding-top: 7px;
+              font-size: 12px;
+              color: #666666; }
+            .main .container .paixu .list02 ul li .shop-addres {
+              height: 18px;
+              padding-left: 16px;
+              font-size: 12px;
+              text-overflow: ellipsis;
+              white-space: nowrap;
+              overflow: hidden;
+              background: url("../img/addres.png") no-repeat;
+              margin-top: 5px; }
+    .main .container .huodong {
+      height: 403px; }
+      .main .container .huodong > h3 {
+        height: 28px;
+        padding-top: 24px;
+        position: relative; }
+        .main .container .huodong > h3 .xian {
+          width: 277px;
+          height: 0px;
+          border: 1px solid #ccc;
+          margin-left: 461px; }
+        .main .container .huodong > h3 span {
+          display: inline-block;
+          width: 172px;
+          height: 52px;
+          background-color: #fff;
+          position: absolute;
+          left: 515px;
+          top: 0;
+          line-height: 51px;
+          color: #666;
+          text-align: center;
+          font-size: 16px; }
+      .main .container .huodong ul {
+        height: 215px; }
+        .main .container .huodong ul li {
+          float: left;
+          margin-right: 20px; }
+      .main .container .huodong .sousuo {
+        height: 136px; }
+        .main .container .huodong .sousuo input {
+          width: 464px;
+          height: 33px;
+          border: 2px solid #EC3639;
+          float: left; }
+        .main .container .huodong .sousuo span {
+          width: 77px;
+          height: 37px;
+          background-color: #EC3639;
+          display: inline-block;
+          float: left;
+          text-align: center;
+          line-height: 37px;
+          color: #fff; }
+        .main .container .huodong .sousuo div {
+          width: 555px;
+          height: 37px;
+          margin: 49px 0 0 329px; }

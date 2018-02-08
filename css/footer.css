@@ -1,0 +1,85 @@
+.jiao {
+  height: 355px; }
+  .jiao .jiaot {
+    background-color: #F7F7F7;
+    height: 155px;
+    padding-top: 25px; }
+    .jiao .jiaot .linkul {
+      float: left;
+      width: 583px;
+      height: 100%; }
+      .jiao .jiaot .linkul li {
+        float: left;
+        width: 25%;
+        height: 100%; }
+      .jiao .jiaot .linkul h3 {
+        font-size: 18px;
+        color: #666666;
+        font-weight: bold; }
+      .jiao .jiaot .linkul p {
+        font-size: 12px;
+        font-size: #666666;
+        margin-top: 8px; }
+    .jiao .jiaot .linkr {
+      float: left;
+      width: 510px;
+      height: 100%;
+      margin-left: 105px; }
+      .jiao .jiaot .linkr ul {
+        height: 100%; }
+      .jiao .jiaot .linkr li {
+        width: 50%;
+        height: 100%;
+        float: left; }
+      .jiao .jiaot .linkr img {
+        float: left; }
+      .jiao .jiaot .linkr div {
+        float: left;
+        padding-left: 5px; }
+        .jiao .jiaot .linkr div h3 {
+          font-size: 16px;
+          font-weight: bold;
+          color: #666666; }
+        .jiao .jiaot .linkr div p {
+          font-size: 8px;
+          color: #666666;
+          width: 100%;
+          margin-top: 8px; }
+  .jiao .jiaob {
+    background-color: #2D2D2D;
+    height: 174px; }
+    .jiao .jiaob .container {
+      height: 100%; }
+      .jiao .jiaob .container .jiaobl {
+        width: 828px;
+        float: left;
+        height: 100%; }
+        .jiao .jiaob .container .jiaobl .jl {
+          height: 24px;
+          margin-top: 36px; }
+          .jiao .jiaob .container .jiaobl .jl li {
+            float: left;
+            color: #fff;
+            font-size: 14px;
+            border-right: 1px solid #999999; }
+            .jiao .jiaob .container .jiaobl .jl li span {
+              height: 12px;
+              padding: 2px 8px; }
+        .jiao .jiaob .container .jiaobl .ul2 {
+          height: 24px;
+          margin-top: 28px;
+          color: #999999; }
+          .jiao .jiaob .container .jiaobl .ul2 li {
+            height: 16px;
+            float: left;
+            padding: 2px 8px;
+            border-right: 1px solid #999999;
+            font-size: 12px; }
+      .jiao .jiaob .container .jiaor {
+        float: left;
+        width: 282px;
+        height: 174px;
+        margin-left: 90px;
+        padding-top: 25px; }
+        .jiao .jiaob .container .jiaor img {
+          float: left; }

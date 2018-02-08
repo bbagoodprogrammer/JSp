@@ -1,0 +1,153 @@
+* {
+  margin: 0 auto;
+  box-sizing: border-box; }
+
+li {
+  list-style: none; }
+
+body {
+  background-color: #FAFAFA; }
+
+.bigbox {
+  width: 100%;
+  height: 777px;
+  border-bottom: 1px solid #ccc; }
+
+.box {
+  width: 990px; }
+
+.tou {
+  width: 990px;
+  height: 80px;
+  position: relative; }
+  .tou img {
+    float: left; }
+  .tou p {
+    float: left;
+    width: 180px;
+    height: 80px;
+    line-height: 80px;
+    font-size: 14px;
+    margin: 5px 0 0 10px; }
+  .tou > span {
+    position: absolute;
+    left: 110px;
+    top: 20px;
+    display: inline;
+    width: 30px;
+    height: 50px;
+    border-right: 1px solid #ccc; }
+  .tou div {
+    float: right;
+    width: 180px;
+    height: 80px;
+    font-size: 14px;
+    line-height: 80px; }
+    .tou div span {
+      color: #DC2F2F; }
+
+.main {
+  height: 353px;
+  margin-top: 40px; }
+  .main .mainl {
+    width: 520px;
+    height: 100%;
+    float: left; }
+  .main .mainr {
+    width: 470px;
+    height: 100%;
+    float: left;
+    background-color: #fff; }
+    .main .mainr .mainm {
+      width: 292px;
+      margin-left: 93px;
+      height: 100%; }
+      .main .mainr .mainm ul {
+        height: 60px;
+        padding: 0; }
+        .main .mainr .mainm ul li {
+          float: left;
+          width: 50%;
+          height: 100%;
+          line-height: 72px;
+          text-align: center;
+          border-bottom: 2px solid #E6E6E6;
+          font-size: 18px; }
+        .main .mainr .mainm ul .active {
+          border-bottom: 2px solid #D63137; }
+      .main .mainr .mainm .input {
+        height: 114px; }
+        .main .mainr .mainm .input input {
+          width: 292px;
+          height: 40px;
+          margin-top: 10px;
+          font-size: 12px;
+          padding-left: 8px; }
+        .main .mainr .mainm .input .active {
+          border: 1px solid #f00; }
+      .main .mainr .mainm .wangji {
+        height: 45px; }
+        .main .mainr .mainm .wangji .iphone {
+          padding-left: 18px;
+          line-height: 41px;
+          background: url("../img/iphone.png") no-repeat;
+          display: inline-block;
+          height: 100%;
+          font-size: 12px; }
+        .main .mainr .mainm .wangji .mima {
+          float: right;
+          display: inline-block;
+          height: 100%;
+          line-height: 41px;
+          color: #134BA0;
+          font-size: 12px; }
+      .main .mainr .mainm button {
+        width: 100%;
+        height: 40px;
+        background-color: #DE3030;
+        color: #fff;
+        text-align: center;
+        line-height: 40px;
+        font-size: 14px;
+        border: none;
+        border-radius: 3px; }
+      .main .mainr .mainm .link {
+        height: 94px;
+        position: relative; }
+        .main .mainr .mainm .link .xian {
+          height: 23px;
+          border-bottom: 1px solid #F0F0F0; }
+        .main .mainr .mainm .link span {
+          display: block;
+          width: 88px;
+          height: 42px;
+          position: absolute;
+          left: 105px;
+          height: 30px;
+          font-size: 14px;
+          background-color: #fff;
+          line-height: 42px; }
+        .main .mainr .mainm .link .link-ul {
+          height: 40px;
+          margin: 15px 0 0 19px; }
+
+.footer {
+  height: 56px;
+  padding: 0 225px; }
+  .footer ul {
+    width: 200px;
+    height: 100%;
+    float: left;
+    padding: 0; }
+    .footer ul li {
+      float: left;
+      padding: 2px 5px;
+      font-size: 12px;
+      line-height: 56px;
+      color: #666666; }
+  .footer p {
+    float: right;
+    height: 100%;
+    line-height: 56px;
+    font-size: 12px;
+    color: #666666; }

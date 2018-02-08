@@ -1,0 +1,267 @@
+.tou {
+  height: 30px;
+  background-color: #F5F5F5; }
+  .tou .container {
+    width: 960px;
+    height: 30px; }
+    .tou .container .huany {
+      width: 237px;
+      height: 30px;
+      line-height: 30px;
+      font-size: 12px;
+      float: left; }
+      .tou .container .huany span {
+        color: blue; }
+    .tou .container > ul {
+      float: right; }
+      .tou .container > ul li {
+        float: left;
+        line-height: 30px;
+        padding: 0 6px;
+        height: 30px;
+        font-size: 12px; }
+
+.main {
+  min-height: 900px; }
+  .main .container {
+    width: 961px;
+    min-height: 961px; }
+    .main .container .logo {
+      padding-top: 32px;
+      height: 68px; }
+    .main .container .zt {
+      height: 107px; }
+    .main .container .shopn {
+      height: 37px;
+      background-color: #F5F5F5; }
+      .main .container .shopn .xshop {
+        width: 400px;
+        height: 37px;
+        text-align: center;
+        line-height: 37px;
+        float: left; }
+      .main .container .shopn > ul {
+        width: 561px;
+        height: 37px;
+        float: right; }
+        .main .container .shopn > ul li {
+          padding: 0 36px;
+          line-height: 37px;
+          float: left; }
+    .main .container .addres {
+      height: 55px;
+      line-height: 55px;
+      font-size: 14px; }
+      .main .container .addres span {
+        color: blue; }
+    .main .container > ul {
+      min-height: 128px; }
+      .main .container > ul li {
+        width: 960px;
+        height: 128px;
+        border-top: 1px solid #e3e3e3;
+        border-bottom: 1px solid #e3e3e3; }
+        .main .container > ul li .name {
+          width: 375px;
+          height: 108px;
+          padding: 10px 10px 10px 12px;
+          float: left; }
+          .main .container > ul li .name input {
+            width: 13px;
+            height: 13px;
+            margin: 24px 10px 0 0; }
+          .main .container > ul li .name img {
+            width: 80px;
+            height: 80px; }
+          .main .container > ul li .name .kuanshi {
+            float: right;
+            width: 240px;
+            height: 108px;
+            padding: 0 0 0 10px;
+            line-height: 20px;
+            text-align: left; }
+            .main .container > ul li .name .kuanshi h3 {
+              height: 40px;
+              margin: 8px 0 4px;
+              line-height: 20px;
+              font-weight: normal;
+              font-size: 12px;
+              overflow: hidden; }
+            .main .container > ul li .name .kuanshi p {
+              color: #666;
+              height: 20px;
+              font-size: 12px;
+              margin-top: 12px; }
+            .main .container > ul li .name .kuanshi span {
+              font-size: 12px;
+              line-height: 20px;
+              color: #666; }
+        .main .container > ul li .price {
+          width: 108px;
+          height: 108px;
+          padding: 10px;
+          float: left;
+          text-align: center;
+          line-height: 108px;
+          font-size: 12px;
+          color: #666; }
+        .main .container > ul li .qty {
+          width: 87px;
+          height: 108px;
+          float: left;
+          padding: 10px 15px; }
+          .main .container > ul li .qty div {
+            height: 20px;
+            margin-top: 43px;
+            margin-left: 8px; }
+            .main .container > ul li .qty div span {
+              width: 15px;
+              height: 15px;
+              display: inline-block;
+              float: left;
+              border: 1px solid #666;
+              line-height: 15px;
+              text-align: center;
+              margin-top: 3px; }
+            .main .container > ul li .qty div input {
+              border: 1px solid #ccc;
+              width: 20px;
+              height: 20px;
+              float: left;
+              padding-left: 10px; }
+            .main .container > ul li .qty div .jian {
+              margin-right: 5px; }
+            .main .container > ul li .qty div .jia {
+              margin-left: 5px; }
+        .main .container > ul li .youhui {
+          width: 80px;
+          height: 108px;
+          padding: 10px;
+          float: left; }
+          .main .container > ul li .youhui p {
+            margin-top: 43px;
+            color: red; }
+        .main .container > ul li .heji {
+          width: 92px;
+          height: 108px;
+          float: left;
+          padding: 10px; }
+          .main .container > ul li .heji p {
+            margin-top: 43px;
+            color: red; }
+        .main .container > ul li .caozuo {
+          width: 84px;
+          height: 108px;
+          float: left;
+          padding: 10px; }
+          .main .container > ul li .caozuo span {
+            margin: 43px 0 0 20px;
+            display: inline-block;
+            color: blue; }
+    .main .container .zongjia {
+      height: 54px; }
+      .main .container .zongjia .zongzhi {
+        width: 211px;
+        height: 54px;
+        float: right;
+        line-height: 54px;
+        font-size: 12px; }
+        .main .container .zongjia .zongzhi span {
+          color: red;
+          font-weight: bold;
+          font-size: 18px; }
+    .main .container .del {
+      height: 36px;
+      border: 1px solid #ccc; }
+      .main .container .del .alldel {
+        display: inline-block;
+        float: left;
+        width: 73px;
+        height: 36px;
+        line-height: 36px;
+        text-align: center;
+        font-size: 12px;
+        color: blue; }
+      .main .container .del .jiesuan {
+        width: 208px;
+        height: 36px;
+        float: right; }
+        .main .container .del .jiesuan a {
+          line-height: 36px;
+          font-size: 12px;
+          color: blue; }
+        .main .container .del .jiesuan button {
+          width: 136px;
+          height: 36px;
+          background-color: #F59A00;
+          color: #fff;
+          font-size: 16px; }
+    .main .container .love {
+      height: 243px;
+      padding-top: 20px; }
+      .main .container .love .lovet {
+        height: 36px; }
+        .main .container .love .lovet span {
+          width: 130px;
+          height: 36px;
+          display: inline-block;
+          float: left;
+          text-align: center;
+          line-height: 36px;
+          border: 1px solid #ccc;
+          border-top-color: #E02D2D;
+          border-bottom: none; }
+        .main .container .love .lovet div {
+          width: 827px;
+          height: 36px;
+          float: left;
+          border-bottom: 1px solid #ccc; }
+      .main .container .love ul {
+        height: 173px;
+        padding: 20px 0 13px 14px;
+        border: 1px solid #ccc;
+        border-top: none; }
+        .main .container .love ul li {
+          width: 162px;
+          float: left;
+          height: 100%;
+          padding: 0 12px;
+          text-align: center; }
+          .main .container .love ul li img {
+            border: 1px solid #ccc; }
+          .main .container .love ul li .name {
+            font-size: 14px;
+            margin-top: 5px; }
+          .main .container .love ul li .price {
+            color: red;
+            font-weight: bold;
+            margin-top: 5px; }
+    .main .container .wei {
+      height: 126px;
+      width: 413px;
+      margin-top: 39px;
+      padding: 20px 271px 0 276px; }
+      .main .container .wei ul {
+        height: 18px;
+        color: blue; }
+        .main .container .wei ul li {
+          float: left;
+          font-size: 12px;
+          padding: 0 10px;
+          position: relative;
+          height: 18px;
+          width: 48px; }
+          .main .container .wei ul li span {
+            height: 12px;
+            display: block;
+            position: absolute;
+            left: 8px;
+            top: 3px;
+            width: 56px;
+            border-right: 1px solid #999; }
+      .main .container .wei p {
+        height: 35px;
+        text-align: center;
+        line-height: 35px;
+        font-size: 12px;
+        color: #999; }

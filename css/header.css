@@ -1,0 +1,82 @@
+.header > h3 {
+  height: 30px;
+  background-color: #F5F5F5;
+  line-height: 30px;
+  font-size: 14px; }
+  .header > h3 a {
+    color: #3366CC; }
+  .header > h3 ul {
+    float: right; }
+    .header > h3 ul li {
+      padding: 0 11px;
+      float: left; }
+
+.tou {
+  height: 160px; }
+  .tou .logo {
+    height: 92px;
+    padding-top: 30px; }
+    .tou .logo .difang {
+      display: block;
+      width: 50px;
+      height: 25px;
+      border: 1px solid #ccc;
+      float: left;
+      margin: 15px 0 0 40px;
+      text-align: center;
+      color: 12px; }
+    .tou .logo h1 {
+      float: left; }
+    .tou .logo .sousuo {
+      border: 2px solid #EC3639;
+      width: 540px;
+      height: 36px;
+      float: left;
+      margin: 8px 0 0 69px; }
+      .tou .logo .sousuo input {
+        width: 455px;
+        height: 36px;
+        float: left;
+        padding-left: 8px; }
+      .tou .logo .sousuo span {
+        display: block;
+        width: 77px;
+        height: 38px;
+        float: left;
+        text-align: center;
+        line-height: 38px;
+        background-color: #EC3639;
+        color: #fff; }
+    .tou .logo ul {
+      float: left;
+      width: 280px;
+      height: 36px;
+      margin: 13px 0 0 82px;
+      font-size: 14px; }
+      .tou .logo ul li {
+        float: left;
+        padding: 3px 7px; }
+  .tou .list {
+    height: 38px; }
+  .tou .list > li {
+    float: left;
+    padding: 5px 28px;
+    height: 28px;
+    position: relative;
+    line-height: 28px;
+    text-align: center; }
+  .tou .fenlei > .erji {
+    position: absolute;
+    left: 0;
+    top: 38px;
+    height: 400px;
+    width: 174px;
+    background-color: #454545;
+    display: block;
+    z-index: 3; }
+  .tou .erji li {
+    text-align: center;
+    height: 50px;
+    border-bottom: 1px solid #4D4D4D;
+    line-height: 50px;
+    width: 100%; }

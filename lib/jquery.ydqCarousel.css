@@ -1,0 +1,11 @@
+.ydqcarousel{position:relative;width:500px;height:500px;margin:0 auto;overflow: hidden;}
+.ydqcarousel ul{list-style:none;padding:0;margin:0;position:absolute;top:0;left:0;}
+.ydqcarousel img{display: block;}
+.ydqcarousel .next,.ydqcarousel .prev{position:absolute;left:0;top:50%;transform: translate(0,-50%);padding:10px 5px;width:30px;height:70px;line-height:50px;background-color: rgba(0,0,0,.3);text-align:center;color:#fff;opacity:0;font-size:28px;}
+.ydqcarousel .next{left:auto;right:0;}
+.ydqcarousel .page{position: absolute;left:50%;bottom:15px;margin-left:-80px;}
+.ydqcarousel .page span{display:inline-block;margin:0 5px;width:30px;height:30px;line-height:30px;text-align:center;background-color:#efefef;border-radius:50%;}
+.ydqcarousel .page span.active{background-color:#f60;color:#fff;}
+.ydqcarousel:hover .next,.ydqcarousel:hover .prev{
+    opacity:1;
+}

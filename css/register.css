@@ -1,0 +1,163 @@
+* {
+  margin: 0 auto;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+body {
+  background-color: #fff; }
+
+.box {
+  width: 982px;
+  height: 857px;
+  box-sizing: border-sizing; }
+
+.tou {
+  width: 982px;
+  height: 93px;
+  position: relative; }
+  .tou img {
+    float: left; }
+  .tou p {
+    float: left;
+    width: 180px;
+    height: 80px;
+    line-height: 80px;
+    font-size: 14px;
+    margin: 5px 0 0 10px; }
+  .tou > span {
+    position: absolute;
+    left: 110px;
+    top: 20px;
+    display: inline;
+    width: 30px;
+    height: 50px;
+    border-right: 1px solid #ccc; }
+  .tou div {
+    float: right;
+    width: 180px;
+    height: 80px;
+    font-size: 14px;
+    line-height: 80px; }
+    .tou div span {
+      color: #DC2F2F; }
+
+.main {
+  height: 764px;
+  border: 1px solid #ccc; }
+  .main h3 {
+    height: 62px;
+    background-color: #FAFAFA;
+    padding-left: 88px;
+    font-size: 18px;
+    color: #999999;
+    line-height: 62px;
+    font-weight: normal; }
+  .main .mainb {
+    height: 702px; }
+    .main .mainb .mainl {
+      width: 501px;
+      height: 100%;
+      float: left;
+      padding: 0 114px 0 87px; }
+      .main .mainb .mainl ul {
+        height: 43px;
+        margin-top: 28px; }
+        .main .mainb .mainl ul li {
+          width: 249px;
+          height: 100%;
+          float: left;
+          text-align: center;
+          line-height: 43px;
+          color: #FF3333; }
+          .main .mainb .mainl ul li span {
+            display: inline-block;
+            width: 120px;
+            height: 40px;
+            margin-top: 3px;
+            padding-left: 10px;
+            background: url("../img/zhuc.png") no-repeat;
+            line-height: 40px; }
+      .main .mainb .mainl .input {
+        height: 534px;
+        margin-top: 28px; }
+        .main .mainb .mainl .input .danger {
+          border: 1px solid red; }
+        .main .mainb .mainl .input label {
+          height: 41px;
+          display: inline-block;
+          width: 84px;
+          text-align: center;
+          line-height: 41px;
+          color: #666666; }
+        .main .mainb .mainl .input > input {
+          width: 290px;
+          padding: 8px 5px;
+          height: 20px; }
+        .main .mainb .mainl .input .tishi {
+          margin: 8px 0 0 84px;
+          height: 41px;
+          font-size: 12px;
+          color: #AAAAAA; }
+        .main .mainb .mainl .input .yanzm {
+          width: 170px;
+          height: 20px; }
+        .main .mainb .mainl .input .yanzms {
+          width: 98px;
+          height: 39px;
+          margin-left: 11px;
+          border: 1px solid #ccc;
+          display: inline-block;
+          float: right;
+          margin: 3px 114px 0 0;
+          text-align: center;
+          line-height: 39px; }
+        .main .mainb .mainl .input .agree {
+          height: 71px;
+          line-height: 65px;
+          width: 320px;
+          margin-left: 85px;
+          font-size: 12px; }
+          .main .mainb .mainl .input .agree p {
+            display: inline-block;
+            margin: -5px 0 0 5px;
+            line-height: 65px; }
+        .main .mainb .mainl .input button {
+          width: 291px;
+          height: 42px;
+          background-color: #DD2F2F;
+          margin-left: 85px;
+          border: none;
+          color: #fff; }
+    .main .mainb .mainr {
+      width: 278px;
+      height: 100%;
+      float: right; }
+      .main .mainb .mainr > p {
+        height: 66px;
+        padding: 20px 0 0 26px;
+        font-size: 14px;
+        line-height: 20px; }
+      .main .mainb .mainr img {
+        margin-left: 26px; }
+
+.footer {
+  height: 56px; }
+  .footer ul {
+    width: 200px;
+    height: 100%;
+    float: left;
+    padding: 0; }
+    .footer ul li {
+      float: left;
+      padding: 2px 5px;
+      font-size: 12px;
+      line-height: 56px;
+      color: #666666; }
+  .footer p {
+    float: right;
+    height: 100%;
+    line-height: 56px;
+    font-size: 12px;
+    color: #666666; }
