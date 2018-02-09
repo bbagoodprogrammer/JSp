@@ -4,8 +4,9 @@
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="../css/base(4).css" />
         <link rel="stylesheet" type="text/css" href="../css/car.css" />
-        <script src="../lib/jquery-3.2.1.js" type="text/javascript"></script>
-        <script src="../js/car.js" type="text/javascript"></script>
+        <!-- <script src="../lib/jquery-3.2.1.js" type="text/javascript"></script>
+        <script src="../js/car.js" type="text/javascript"></script> -->
+        <script src="../js/require.js" data-main="../js/car.js"></script>
     </head>
     <body>
         <div class="tou">
@@ -28,7 +29,9 @@
         <div class="main">
             <div class="container">
                 <div class="logo">
+                    <a href="../index.html">
                     <img src="../img/logo.gif" height="60" width="130" alt="" />
+                    </a>
                     <img src="../img/car1.png" height="37" width="522" alt="" style="float: right;"/>
                 </div>
                 <div class="zt">
@@ -76,16 +79,13 @@
                             <p></p>
                         </div>
                         <div class="caozuo">
-                            <span>
-                                删除
-                            </span>
-                               
+                            
                         </div>
                     </li>
                 </ul>
                 <div class="zongjia">
                     <div class="zongzhi">
-                        商品总价(不含运费)：<span>￥<i>9555.00</i></span>
+                        商品总价(不含运费)：<span>￥<i class="zj">0</i></span>
                     </div>
                 </div>
                 <div class="del">

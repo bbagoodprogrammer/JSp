@@ -147,11 +147,9 @@
         padding: 15px 10px 0 0; }
   .container > .tuangou .tab2 {
     height: 38px;
-    background-color: red;
     position: relative; }
     .container > .tuangou .tab2 > ul {
       width: 105px;
-      background-color: pink;
       height: 8px;
       position: absolute;
       left: 554px;
@@ -160,7 +158,6 @@
         float: left;
         margin-right: 2px;
         width: 33px;
-        background-color: green;
         height: 8px; }
   .container > .tuangou .juan {
     margin-top: 42px; }
@@ -331,7 +328,6 @@
           font-size: 14px; }
     .main .jingji .jingjil .rem2 {
       height: 260px;
-      background-color: red;
       position: relative;
       overflow: hidden; }
       .main .jingji .jingjil .rem2 ul {

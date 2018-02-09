@@ -169,7 +169,10 @@
         .main .container .zongjia .zongzhi span {
           color: red;
           font-weight: bold;
-          font-size: 18px; }
+          font-size: 18px;
+          width: 90px;
+          display: inline-block;
+          text-align: center; }
     .main .container .del {
       height: 36px;
       border: 1px solid #ccc; }
